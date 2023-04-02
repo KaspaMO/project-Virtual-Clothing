@@ -1,0 +1,17 @@
+index.html: This is the main HTML file that serves as the homepage of the website.
+
+style.css: This file contains the CSS code that defines the layout and styling of the website.
+
+script.js: This file contains any JavaScript code used to add interactivity and functionality to the website.
+
+images folder: This folder contains all the image files used on the website.
+
+videos folder: This folder contains any video files used on the website.
+
+audio folder: This folder contains any audio files used on the website.
+
+header.php: This file contains the header section of the website that is shared across multiple pages.
+
+footer.php: This file contains the footer section of the website that is shared across multiple pages.
+
+virtual.html: This file is a specific page of the website and contains content related to the virtual wardrobe management platform mentioned in your earlier question.
